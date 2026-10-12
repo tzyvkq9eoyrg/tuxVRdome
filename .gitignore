@@ -1,0 +1,9 @@
+build/
+build-appimage/
+*.AppImage
+*.log
+# Screenshots or reference pictures dropped into the project folder
+/*.png
+/*.jpg
+/*.jpeg
+/*.webp

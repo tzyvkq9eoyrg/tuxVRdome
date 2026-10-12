@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=tuxVRdome
+GenericName=VR Media Player
+Comment=Play flat, 180° and 360° videos and photos in VR (OpenXR)
+Comment[de]=Flache, 180°- und 360°-Videos und Fotos in VR abspielen (OpenXR)
+Exec=tuxvrdome %f
+Icon=tuxvrdome
+Terminal=false
+Categories=AudioVideo;Video;Player;
+MimeType=video/mp4;video/x-matroska;video/webm;video/quicktime;image/jpeg;image/png;
