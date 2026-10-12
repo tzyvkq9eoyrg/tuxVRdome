@@ -5,7 +5,7 @@ Videos and photos play on a flat or curved virtual screen in front of a calm nig
 180°/360° or fisheye video, mono or 3D. Decoding runs on the GPU via NVDEC (HEVC, AV1, VP9, H.264,
 up to 8K, HDR too). YouTube (search, links, playlists) works through yt-dlp.
 
-The menus are in German by default; switch to English under Settings → Sprache (Language).
+The menus are in English by default; German can be chosen under Settings → Language.
 
 ## Requirements
 

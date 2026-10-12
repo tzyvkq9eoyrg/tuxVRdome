@@ -14,7 +14,7 @@ std::filesystem::path configDir();
 // User preferences, kept in settings.conf in configDir().
 struct Settings {
   Theme theme = Theme::Glass;
-  Language language = Language::German;
+  Language language = Language::English;
   bool floatingSubtitles = false;  // 2D video: subtitles float in front (3D/surround always do)
   int maxVideoWidth = 0;          // default YouTube quality: width limit, 0 = best available
   bool lyingMode = false;         // recentering also takes the head's tilt (watching lying down)

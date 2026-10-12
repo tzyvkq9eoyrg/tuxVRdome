@@ -48,7 +48,7 @@ struct MenuView {
   VideoFormat format;
   bool curvedScreen = false;
   std::string currentFile;
-  Language language = Language::German;
+  Language language = Language::English;
   Theme theme = Theme::Glass;
   bool floatingSubtitles = false;
   int maxVideoWidth = 0;   // default quality for streams
