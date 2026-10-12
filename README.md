@@ -7,6 +7,11 @@ up to 8K, HDR too). YouTube (search, links, playlists) works through yt-dlp.
 
 The menus are in English by default; German can be chosen under Settings → Language.
 
+> **Disclaimer:** This project was written entirely with [Claude](https://claude.ai) (Anthropic's
+> AI assistant) through Claude Code – the code, the build scripts and this README. It is a small
+> hobby project, tested on one setup only (Ubuntu, NVIDIA RTX 4090, SteamVR with the Steam Frame).
+> Expect rough edges; use at your own risk.
+
 ## Requirements
 
 - Linux with an NVIDIA graphics card (NVDEC; without it, `--hwdec=no` works but is slower)
